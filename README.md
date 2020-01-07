@@ -4,7 +4,6 @@
 
 ```sh
 git clone git@github.com:hinastory/jupyterlab-ruby.git
-cd grpcui-playground
 docker build --rm -t hinastory/jupyterlab-ruby .
 ```
 
